@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @greeshmanth-5
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me malapatigreeshmanthreddy@gmail.com
 
 <!---
 greeshmanth-5/greeshmanth-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
